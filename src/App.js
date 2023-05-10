@@ -1,5 +1,5 @@
-import AddPostForm from './features/posts/AddPostForm'
-import PostsList from './features/posts/PostsList'
+import AddPostForm from './features/lession_03/posts/AddPostForm'
+import PostsList from './features/lession_03/posts/PostsList'
 
 function App() {
   return (
